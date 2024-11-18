@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #a1a3fd;
+    color: white;
+  }
+  
+  header h1 {
+    font-size: 24px;
+  }
+  
+  nav a {
+    margin: 0 10px;
+    color: white;
+    font-size: 18px;
+  }
+  
